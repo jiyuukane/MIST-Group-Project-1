@@ -96,3 +96,10 @@ Query 6 lists the ID, first name, last name, and order count for customers who's
 Query 6 allows the managers to highlight high volume customers. Having access to your important customers allows the store to engage and create lasting relationships with returning customers, while also being able to notice if there are patterns between frequent and infrequent customers. 
 
 Query 7 retrieves the customer ID, first name, last name, and prescription date for customers with a progressive prescription. The results are sorted in ascending order to display the oldest prescriptions first.
+
+![q7 final](https://github.com/user-attachments/assets/8f9ff385-93fa-4bc6-af0f-e5b0b3404477)
+
+This query allows the manager to keep track of the oldest given prescriptions for customers with progressive prescriptions. Because progressive prescriptions tend to change faster than bifocal or single vision prescriptions, being able to track the oldest progressive prescriptions allows managers to be weary of which prescriptions may need updating soon, allowing them to anticipate and reach out to customers with potentially changing prescriptions.
+
+
+## Database Information
